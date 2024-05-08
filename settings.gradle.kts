@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Library_Toast"
 include(":app")
- 
+include(":Toasty")
