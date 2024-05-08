@@ -15,3 +15,11 @@ Simple Toast Library
 			  maven { url 'https://jitpack.io' }
 		    }
     }  
+
+> Step 2. Add the dependency
+
+...gradle
+
+     dependencies {
+	        implementation 'com.github.kunalwarrior25:Library-Toast:Tag'
+	}
