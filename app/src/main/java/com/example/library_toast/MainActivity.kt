@@ -11,6 +11,6 @@ class MainActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
 
-        Toaster.Simpletoast(this,"hello kunal")
+        Toaster.simpletoast(this,"hello kunal")
     }
 }
