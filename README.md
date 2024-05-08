@@ -4,7 +4,8 @@ Simple Toast Library
 > Step 1. Add the JitPack repository to your build file
 
 ...gradle
-...dependencyResolutionManagement {
+
+    dependencyResolutionManagement {
 
 		 repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
    
